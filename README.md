@@ -1,10 +1,6 @@
 # 香港赛马游戏
 参考香港赛马游戏的动态赔率，让玩家相互博弈。精选10种流通市值最大的数字货币，采集其24小时内价格涨跌幅度，用户投入EOS代币进行竞猜。
 
-![香港赛马游戏网站](
-https://github.com/microfisher/EOS-Dapp-HorseRacing/blob/master/website.png)
-
-
 ## 智能合约
 
 开发语言：C++
@@ -25,3 +21,7 @@ https://github.com/microfisher/EOS-Dapp-HorseRacing/blob/master/website.png)
 * 竞猜涨幅前三:玩家选择一个币种下注，如果该币种为竞猜10种币种中涨幅前三名的币种，即为获胜，否则为失败。
 * 竞猜跌幅第一:玩家选择一个币种下注，如果该币种为竞猜10种币种中跌幅最大的币种，即为获胜，否则为失败。
 * 所有游戏数据来源于 https://coinmarketcap.com/。如有数据问题或者建议，欢迎大家提出的宝贵意见。
+
+![香港赛马游戏网站](
+https://github.com/microfisher/EOS-Dapp-HorseRacing/blob/master/website.png)
+
