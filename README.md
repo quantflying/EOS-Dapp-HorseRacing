@@ -5,11 +5,6 @@
 
 开发语言：C++
 
-合约账号：shadowsguess
-
-合约地址：https://eospark.com/contract/shadowsguess
-
-
 ## 游戏规则
 
 #### 游戏介绍
